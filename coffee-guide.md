@@ -30,7 +30,7 @@ Below, I give you an easy starter-recipe for a cup of black coffee. Continue rea
     - screw the chamber onto cap. if the filter gets a small bubble, that's okay. if the filter folds anywhere, remove the cap and try again. you need a proper seal on the edges to prevent grounds from getting into your brew.
     - place the aeropress over your cup and keep the plunger nearby.  
 
-    **NOTE:** you should avoid using enameled mugs as your catch vessel. repeated pressing can result in chipping over time. this happened to me on my favorite mug :(. adelle and i use a milk frother cup, but one of the mule mugs that is under the island ABOVE THE AIR FRYER will work if you don't want to risk your mugs.
+    > **NOTE:** you should avoid using enameled mugs as your catch vessel. repeated pressing can result in chipping over time. this happened to me on my favorite mug :(. adelle and i use a milk frother cup, but one of the mule mugs that is under the island ABOVE THE AIR FRYER will work if you don't want to risk your mugs.
 
 3. Prep your beans:
     - measure 15g of beans into a small bowl.
