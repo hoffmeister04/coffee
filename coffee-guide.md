@@ -20,12 +20,12 @@ Below, I give you an easy starter-recipe for a cup of black coffee. Continue rea
 ### Your First Recipe (w/ full detail)
 
 1. Prep your water:
-- add some water (bottled/filtered is best) to the kettle and begin heating to 185F. complete steps 2 and 3 while you wait.
+|  - add some water (bottled/filtered is best) to the kettle and begin heating to 185F. complete steps 2 and 3 while you wait. a
 
 2. Prep your aeropress:
-- wet your paper filter and smooth it out on the cap. get the filter as flush as possible with the inside edges of the cap. the small rectangular holes will be uncovered and that's okay.
-- screw the chamber onto cap. if the filter gets a small bubble, that's okay. if the filter folds anywhere, remove the cap and try again. you need a proper seal on the edges to prevent grounds from getting into your brew.
-- keep the plunger nearby.
+|  - wet your paper filter and smooth it out on the cap. get the filter as flush as possible with the inside edges of the cap. the small rectangular holes will be uncovered and that's okay.
+    - screw the chamber onto cap. if the filter gets a small bubble, that's okay. if the filter folds anywhere, remove the cap and try again. you need a proper seal on the edges to prevent grounds from getting into your brew.
+    - keep the plunger nearby.
 
 3. Prep your beans:
 - measure 15g of beans into a small bowl
@@ -54,7 +54,7 @@ Below, I give you an easy starter-recipe for a cup of black coffee. Continue rea
 **NOTE:** This grinder was cleaned and reassembled, which resulted in a slight miscalibration of how the grind size reads. If you turn the numbered dial completely clockwise, the grind size will be on the number 2 (it should be 0). So if you are reading about grind sizes for different coffee recipes, you will need to add 0.2 to the grind size.    
 
 Grind Setting Chart:  
-    ![JX-Pro](/images/grind-size-chart.png)
+    [JX-Pro](/images/grind-size-chart.png)
 
 Current Setting: 3.4 (shows as 3.6)  
 
